@@ -1,5 +1,6 @@
 ﻿using LibraryManagement_BackendAPI.Dtos;
 using LibraryManagement_BackendAPI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LibraryManagement_BackendAPI.Controllers
